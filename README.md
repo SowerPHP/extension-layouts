@@ -28,12 +28,11 @@ Nuevos *layouts*
 ----------------
 
 Si quieres enviar un diseño, ya sea tuyo o adaptado al framework de uno que
-tenga una licencia libre, por favor contáctame.
+tenga una licencia libre, por favor contáctanos.
 
 Para conocer como crear un *layout* y los directorios y archivos involucrados
 se recomienda revisar el enlace: [creación y uso de
-layouts]({_base}/mipagina/mvc/vista/layouts).
-
+layouts](http://sowerphp.org/doc/mvc/vista/layouts).
 
 ### Variables y textos en los *layouts*
 
