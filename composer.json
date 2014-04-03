@@ -1,23 +1,23 @@
 {
-	"name": "sowerphp/layouts",
-	"description": "Extensión: layouts",
-	"type": "library",
-	"keywords": ["sowerphp", "extension"],
-	"homepage": "http://sowerphp.org",
-	"license": "GPL-3.0+",
-	"authors": [
-		{
-			"name": "Equipo de SowerPHP",
-			"homepage": "https://github.com/sowerphp/extension-layouts/graphs/contributors"
-		}
-	],
-	"support": {
-		"issues": "https://github.com/sowerphp/extension-layouts/issues",
-		"forum": "http://stackoverflow.com/tags/sowerphp",
-		"irc": "irc://irc.freenode.org/#sowerphp",
-		"source": "https://github.com/sowerphp/extension-layouts"
-	},
-	"require": {
-		"php": "~5.3"
-	}
+    "name": "sowerphp/layouts",
+    "description": "Extensión: layouts",
+    "type": "library",
+    "keywords": ["sowerphp", "extension"],
+    "homepage": "http://sowerphp.org",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Equipo de SowerPHP",
+            "homepage": "https://github.com/sowerphp/extension-layouts/graphs/contributors"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/sowerphp/extension-layouts/issues",
+        "forum": "http://stackoverflow.com/tags/sowerphp",
+        "irc": "irc://irc.freenode.org/#sowerphp",
+        "source": "https://github.com/sowerphp/extension-layouts"
+    },
+    "require": {
+        "php": "~5.5"
+    }
 }

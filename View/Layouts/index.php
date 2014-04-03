@@ -4,7 +4,7 @@ web. Puede elegir alguno de los siguientes:</p>
 <ul class="list">
 <?php
 foreach ($layouts as &$layout) {
-	echo '<li><a href="',$_base,'/layouts/',$layout,'">',$layout,'</a></li>',"\n";
+    echo '<li><a href="',$_base,'/layouts/',$layout,'">',$layout,'</a></li>',"\n";
 }
 ?>
 </ul>

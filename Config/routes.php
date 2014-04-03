@@ -22,7 +22,7 @@
  */
 
 // conectar ruta para mostrar y cambiar layouts
-Router::connect('/layouts/*', array(
-	'controller' => 'layouts',
-	'action' => 'index',
+\sowerphp\core\Routing_Router::connect('/layouts/*', array(
+    'controller' => 'layouts',
+    'action' => 'index',
 ));

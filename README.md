@@ -42,6 +42,6 @@ utilizar otras opciones de configuración se recomienda hacerlo directamente con
 la configuración del sitio en el archivo *Config/core.php* y luego en el
 *layout* utilizar:
 
-	Configure::read('page.VARIABLE');
+	\sowerphp\core\Configure::read('page.VARIABLE');
 
 De esta forma si dicha configuración no existe, el método retornará *null*.
