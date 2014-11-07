@@ -42,7 +42,7 @@ foreach($_nav_website as $link => &$name) {
                     </div>
 <?php
 $message = \sowerphp\core\Model_Datasource_Session::message();
-if($message) echo '<div class="session_message">',$message,'</div>';
+if($message) echo '<div class="session_message session_message_',$message['type'],'">',$message['text'],'</div>';
 echo $_content;
 ?>
                 </div>
