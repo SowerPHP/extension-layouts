@@ -1,5 +1,5 @@
-Extensión layouts
-=================
+SowerPHP: extensión layouts
+===========================
 
 Extensión cuyo único propósito es proporcionar diferentes *layouts* que
 funcionan con el framework *out of the box*.
