@@ -1,4 +1,4 @@
-<h1>Probar <em>layouts</em></h1>
+<div class="page-header"><h1>Probar <em>layouts</em></h1></div>
 <p>A continuación se listan los <em>layouts</em> disponibles para el sitio
 web. Puede elegir alguno de los siguientes:</p>
 <ul class="list">
