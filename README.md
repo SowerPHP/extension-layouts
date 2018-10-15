@@ -1,7 +1,7 @@
 SowerPHP: extensión layouts
 ===========================
 
-**Deprecado**: uso no recomendado, ya que ahora el framework usa Bootstrap 4.
+**Layouts obsoletos**: uso no recomendado, ya que ahora el framework usa Bootstrap 4.
 
 Extensión cuyo único propósito es proporcionar diferentes *layouts* que
 funcionan con el framework *out of the box*.
